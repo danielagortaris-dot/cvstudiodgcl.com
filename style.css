@@ -563,3 +563,7 @@ pre{margin:0;white-space:pre-wrap;word-break:break-word}
   .nav{display:none}
   .navbtn{display:block}
 }
+/* FIX TOPBAR – evita que tape el contenido */
+.hero{
+  margin-top: 72px;
+}
